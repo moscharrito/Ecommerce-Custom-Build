@@ -181,7 +181,7 @@ const Home = () => {
         <div className="row">
               <div className="col-3">
                 <div className="famous-card position-relative">
-                  <img src="images/famous-1.jpg" className='img-fluid' alt="famous image" />
+                  <img src="images/famous-1.jpg" className='img-fluid' alt="famous" />
                   <div className="famous-content position-absolute">
                     <h5>Big Screen</h5>
                     <h6>Smart Watch Series 7</h6>
@@ -191,7 +191,7 @@ const Home = () => {
               </div>
               <div className="col-3">
                 <div className="famous-card position-relative">
-                  <img src="images/famous-2.webp" className='img-fluid' alt="famous image" />
+                  <img src="images/famous-2.webp" className='img-fluid' alt="famous" />
                   <div className="famous-content position-absolute">
                     <h5 className='text-dark'>Big Screen</h5>
                     <h6 className='text-dark'>600 nits of Brightness</h6>
@@ -201,7 +201,7 @@ const Home = () => {
               </div>
               <div className="col-3">
                 <div className="famous-card position-relative">
-                  <img src="images/famous-3.webp" className='img-fluid' alt="famous image" />
+                  <img src="images/famous-3.webp" className='img-fluid' alt="famous" />
                   <div className="famous-content position-absolute">
                     <h5 className='text-dark'>SmartPhones</h5>
                     <h6 className='text-dark'>SmartPhone 13Pro.</h6>
@@ -211,7 +211,7 @@ const Home = () => {
               </div>
               <div className="col-3">
                 <div className="famous-card position-relative">
-                  <img src="images/famous-4.webp" className='img-fluid' alt="famous image" />
+                  <img src="images/famous-4.webp" className='img-fluid' alt="famous" />
                   <div className="famous-content position-absolute">
                     <h5 className='text-dark'>Home Speakers</h5>
                     <h6 className='text-dark'>Room-Filing Sound</h6>
